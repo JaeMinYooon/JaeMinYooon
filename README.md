@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YOON JAE MIN&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YOONJAEMIN&fontSize=70&animation=twinkling)
 
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeMinYooon)](https://github.com/anuraghazra/github-readme-stats)
