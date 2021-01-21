@@ -36,6 +36,11 @@ Type | Date | Contents | Organization
  Tutoring | s | s | 
  Research Activities | s | s | 
  Award | s | s | 
+ Award | s | s | 
+ Research Activities | s | s | 
+ Award | s | s | 
+ Award | s | s | 
+ Study Algorithm | s | s |
           Type        |        Date       | Contents | Organization 
 -------------------   |-----------------  |--------  |------------
       Education      | 2015.03 ~ 2021.02 |          |              
