@@ -27,20 +27,20 @@
 
 Type | Date | Contents | Organization
 ------- | ------- | ------- | -------
- Education | C1-2 | C1-3 |
- University Club | C2-2 | C2-3 |
- Study Group | C3-2 | C3-3 |
- Work Scholarship | s | s | 
- Student President | s | s | 
- Mentoring | s | s | 
- Tutoring | s | s | 
- Research Activities | s | s | 
- Award | s | s | 
- Award | s | s | 
- Research Activities | s | s | 
- Award | s | s | 
- Award | s | s | 
- Study Algorithm | s | s |
+ Education | 2015.03 ~ 2021.02 | C1-3 |
+ University Club | 2015.03 ~ 2016.03 | C2-3 |
+ Study Group | 2018.09 ~ 2018.12 | C3-3 |
+ Work Scholarship | 2018.09 ~ 2018.12 | s | 
+ Student President | 2018.12 ~ 2019.12 | s | 
+ Mentoring | 2019.03 ~ 2019.06 | s | 
+ Tutoring | 2019.03 ~ 2019.06 | s | 
+ Research Activities | 2019.06 ~ 2019.12 | s | 
+ Award | 2019.09 | s | 
+ Award | 2020.06 | s | 
+ Research Activities | 2020.03 ~ 2020.10 | s | 
+ Award | 2020.09 | s | 
+ Award | 2020.12 | s | 
+ Study Algorithm | 2020.01 ~ ing | s |
           Type        |        Date       | Contents | Organization 
 -------------------   |-----------------  |--------  |------------
       Education      | 2015.03 ~ 2021.02 |          |              
