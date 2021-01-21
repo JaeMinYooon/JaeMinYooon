@@ -20,10 +20,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeMinYooon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
-
-<h3 align="center">🌱 My Career 🌱</h3>           
+<h3>🌱 My Career 🌱</h3>           
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:------- | :-------: | :-------: | :-------: |
@@ -41,6 +39,9 @@
 | **Award** | 2020.06 | 캡스톤디자인 최우수상 | Hansung University |
 | **Award** | 2020.09 | 공학경진대회 은상 | Hansung University |
 | **Award** | 2020.12 | 공개SW 개발자대회 은상 | 과학기술정보통신부 |
+
+
+</div>
 
 -----
 
