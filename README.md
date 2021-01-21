@@ -27,7 +27,7 @@
 
 Type | Date | Contents | Organization
 ------- | ------- | ------- | -------
-      Education      | 2015.03 ~ 2021.02 |          |              
+      Education      | 2015.03 ~ 2021.02 |    aa      |              
    University Club   | 2015.03 ~ 2016.03 |          |              
      Study Group     | 2018.09 ~ 2018.12 |          |              
    Work Scholarship  | 2018.09 ~ 2018.12 |          |              
