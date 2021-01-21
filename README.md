@@ -24,9 +24,9 @@
 
 
 <h3 align="center">🌱 My Career 🌱</h3>           
-<p align="center">
+
 Type | Date | Contents | Organization
-------- | ------- | ------- | -------
+:------- | :-------: | :-------: | :-------:
  **Education** | 2015.03 ~ 2021.02 | Computer Engineering | Hansung University
  **University Club** | 2015.03 ~ 2016.03 | 창업동아리 | 
  **Study Group** | 2018.09 ~ 2018.12 | 낙산스터디그룹 | 
@@ -41,7 +41,6 @@ Type | Date | Contents | Organization
  **Award** | 2020.06 | 캡스톤디자인 최우수상 | Hansung University
  **Award** | 2020.09 | 공학경진대회 은상 | Hansung University
  **Award** | 2020.12 | 공개SW 개발자대회 은상 | 과학기술정보통신부
- </p>
 
 -----
 
