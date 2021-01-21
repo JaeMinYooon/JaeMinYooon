@@ -28,12 +28,12 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:------- | :-------: | :-------: | :-------: |
 | **Education** | 2015.03 ~ 2021.02 | Computer Engineering | Hansung University |
-| **University Club** | 2015.03 ~ 2016.03 | 창업동아리 | 
-| **Study Group** | 2018.09 ~ 2018.12 | 낙산스터디그룹 | 
-| **Work Scholarship** | 2018.09 ~ 2018.12 | 근로장학생 | 
-| **Student President** | 2018.12 ~ 2019.12 | 컴퓨터공학과 학생회장 | 
-| **Mentoring** | 2019.03 ~ 2019.06 | 1:1 Mentor | 
-| **Tutoring** | 2019.03 ~ 2019.06 | JAVA Tutor | 
+| **University Club** | 2015.03 ~ 2016.03 | 창업동아리 |   |
+| **Study Group** | 2018.09 ~ 2018.12 | 낙산스터디그룹 |   |
+| **Work Scholarship** | 2018.09 ~ 2018.12 | 근로장학생 |   |
+| **Student President** | 2018.12 ~ 2019.12 | 컴퓨터공학과 학생회장 |   |
+| **Mentoring** | 2019.03 ~ 2019.06 | 1:1 Mentor |   |
+| **Tutoring** | 2019.03 ~ 2019.06 | JAVA Tutor |   |
 | **Research Activities** | 2019.06 ~ 2019.12 | AI LAB | Hansung University |
 | **Award** | 2019.09 | 공학경진대회 은상 | Hansung University |
 | **Study Algorithm** | 2020.01 ~ ing | Study myself | [URL](https://github.com/JaeMinYooon/algorithm) |
