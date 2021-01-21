@@ -24,22 +24,22 @@
 
 
 <h3 align="center">🌱 My Career 🌱</h3>
-|         Type        |        Date       | Contents | Organization |<br>
-|:-------------------:|:-----------------:|:--------:|:------------:|<br>
-|      Education      | 2015.03 ~ 2021.02 |          |              |<br>
-|   University Club   | 2015.03 ~ 2016.03 |          |              |<br>
-|     Study Group     | 2018.09 ~ 2018.12 |          |              |<br>
-|   Work Scholarship  | 2018.09 ~ 2018.12 |          |              |<br>
-|  Student President  | 2018.12 ~ 2019.12 |          |              |<br>
-|      Mentoring      | 2019.03 ~ 2019.06 |          |              |<br>
-|       Tutoring      | 2019.03 ~ 2019.06 |          |              |<br>
-| Research Activities | 2019.06 ~ 2019.12 |          |              |<br>
-|        Award        | 2019.09           |          |              |<br>
-|        Award        | 2020.06           |          |              |<br>
-| Research Activities | 2020.03 ~ 2020.10 |          |              |<br>
-|        Award        | 2020.09           |          |              |<br>
-|        Award        | 2020.12           |          |              |<br>
-|   Study Algorithm   | 2020.01 ~         |          |              |<br>
+|         Type        |        Date       | Contents | Organization |
+|:-------------------:|:-----------------:|:--------:|:------------:|
+|      Education      | 2015.03 ~ 2021.02 |          |              |
+|   University Club   | 2015.03 ~ 2016.03 |          |              |
+|     Study Group     | 2018.09 ~ 2018.12 |          |              |
+|   Work Scholarship  | 2018.09 ~ 2018.12 |          |              |
+|  Student President  | 2018.12 ~ 2019.12 |          |              |
+|      Mentoring      | 2019.03 ~ 2019.06 |          |              |
+|       Tutoring      | 2019.03 ~ 2019.06 |          |              |
+| Research Activities | 2019.06 ~ 2019.12 |          |              |
+|        Award        | 2019.09           |          |              |
+|        Award        | 2020.06           |          |              |
+| Research Activities | 2020.03 ~ 2020.10 |          |              |
+|        Award        | 2020.09           |          |              |
+|        Award        | 2020.12           |          |              |
+|   Study Algorithm   | 2020.01 ~         |          |              |
 
 
 -----
