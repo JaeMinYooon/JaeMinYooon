@@ -22,11 +22,11 @@
 
 </div>
 
+
 <h3 align="center">🌱 My Career 🌱</h3>
-First Header | Second Header 
------------- | ------------- 
-Content from cell 1 | Content from cell 2 
-Content in the first column | Content in the second column 
+
+
+
 -----
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeMinYooon)](https://github.com/anuraghazra/github-readme-stats)
