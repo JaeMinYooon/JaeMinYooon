@@ -28,35 +28,19 @@
 Type | Date | Contents | Organization
 ------- | ------- | ------- | -------
  Education | 2015.03 ~ 2021.02 | C1-3 | Hansung University
- University Club | 2015.03 ~ 2016.03 | C2-3 | Hansung University
- Study Group | 2018.09 ~ 2018.12 | C3-3 | Hansung University
- Work Scholarship | 2018.09 ~ 2018.12 | s | Hansung University
- Student President | 2018.12 ~ 2019.12 | s | Hansung University
- Mentoring | 2019.03 ~ 2019.06 | s | Hansung University
- Tutoring | 2019.03 ~ 2019.06 | s | Hansung University
+ University Club | 2015.03 ~ 2016.03 | C2-3 | 
+ Study Group | 2018.09 ~ 2018.12 | C3-3 | 
+ Work Scholarship | 2018.09 ~ 2018.12 | s | 
+ Student President | 2018.12 ~ 2019.12 | s | 
+ Mentoring | 2019.03 ~ 2019.06 | s | 
+ Tutoring | 2019.03 ~ 2019.06 | s | 
  Research Activities | 2019.06 ~ 2019.12 | s | Hansung University
  Award | 2019.09 | s | Hansung University
  Award | 2020.06 | s | Hansung University
  Research Activities | 2020.03 ~ 2020.10 | s | Hansung University
  Award | 2020.09 | s | Hansung University
  Award | 2020.12 | 공개SW 개발자대회 은상 | 과학기술정보통신부
- Study Algorithm | 2020.01 ~ ing | s | [My git](github.com/JaeMinYooon/algorithm)
-          Type        |        Date       | Contents | Organization 
--------------------   |-----------------  |--------  |------------
-      Education      | 2015.03 ~ 2021.02 |          |              
-   University Club   | 2015.03 ~ 2016.03 |          |              
-     Study Group     | 2018.09 ~ 2018.12 |          |              
-   Work Scholarship  | 2018.09 ~ 2018.12 |          |              
-  Student President  | 2018.12 ~ 2019.12 |          |              
-      Mentoring      | 2019.03 ~ 2019.06 |          |              
-       Tutoring      | 2019.03 ~ 2019.06 |          |              
- Research Activities | 2019.06 ~ 2019.12 |          |              
-        Award        | 2019.09           |          |              
-        Award        | 2020.06           |          |              
- Research Activities | 2020.03 ~ 2020.10 |          |              
-        Award        | 2020.09           |          |              
-        Award        | 2020.12           |          |              
-   Study Algorithm   | 2020.01 ~         |          |              
+ Study Algorithm | 2020.01 ~ ing | s | [My git](https://github.com/JaeMinYooon/algorithm)
 
 -----
 
