@@ -26,7 +26,7 @@
 <h3 align="center">🌱 My Career 🌱</h3>           
 
 | **Type** | **Date** | **Contents** | **Organization** |
-|:------- | :-------: | :-----------: | :------------:|
+|:------- | :-------: | :-------: | :-------: |
 | **Education** | 2015.03 ~ 2021.02 | Computer Engineering | Hansung University |
 | **University Club** | 2015.03 ~ 2016.03 | 창업동아리 | 
 | **Study Group** | 2018.09 ~ 2018.12 | 낙산스터디그룹 | 
