@@ -23,30 +23,19 @@
 </div>
 
 
-<h3 align="center">🌱 My Career 🌱</h3>
+<h3 align="center">🌱 My Career 🌱</h3>           
 
 Type | Date | Contents | Organization
 ------- | ------- | ------- | -------
-      Education      | 2015.03 ~ 2021.02 |    aa      |              
-   University Club   | 2015.03 ~ 2016.03 |          |              
-     Study Group     | 2018.09 ~ 2018.12 |          |              
-   Work Scholarship  | 2018.09 ~ 2018.12 |          |              
-  Student President  | 2018.12 ~ 2019.12 |          |              
-      Mentoring      | 2019.03 ~ 2019.06 |          |              
-       Tutoring      | 2019.03 ~ 2019.06 |          |              
- Research Activities | 2019.06 ~ 2019.12 |          |              
-        Award        | 2019.09           |          |              
-        Award        | 2020.06           |          |              
- Research Activities | 2020.03 ~ 2020.10 |          |              
-        Award        | 2020.09           |          |              
-        Award        | 2020.12           |          |              
-   Study Algorithm   | 2020.01 ~         |          |              
- 
-Type | Date | Contents | Organization
-------- | ------- | ------- | -------
  Education | C1-2 | C1-3 |
- C2-1 | C2-2 | C2-3 |
- C3-1 | C3-2 | C3-3 |
+ University Club | C2-2 | C2-3 |
+ Study Group | C3-2 | C3-3 |
+ Work Scholarship | s | s | 
+ Student President | s | s | 
+ Mentoring | s | s | 
+ Tutoring | s | s | 
+ Research Activities | s | s | 
+ Award | s | s | 
           Type        |        Date       | Contents | Organization 
 -------------------   |-----------------  |--------  |------------
       Education      | 2015.03 ~ 2021.02 |          |              
