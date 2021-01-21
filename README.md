@@ -27,20 +27,20 @@
 
 Type | Date | Contents | Organization
 ------- | ------- | ------- | -------
- Education | 2015.03 ~ 2021.02 | C1-3 | Hansung University
- University Club | 2015.03 ~ 2016.03 | C2-3 | 
- Study Group | 2018.09 ~ 2018.12 | C3-3 | 
- Work Scholarship | 2018.09 ~ 2018.12 | s | 
- Student President | 2018.12 ~ 2019.12 | s | 
- Mentoring | 2019.03 ~ 2019.06 | s | 
- Tutoring | 2019.03 ~ 2019.06 | s | 
- Research Activities | 2019.06 ~ 2019.12 | s | Hansung University
- Award | 2019.09 | s | Hansung University
- Award | 2020.06 | s | Hansung University
- Research Activities | 2020.03 ~ 2020.10 | s | Hansung University
- Award | 2020.09 | s | Hansung University
+ Education | 2015.03 ~ 2021.02 | Computer Engineering | Hansung University
+ University Club | 2015.03 ~ 2016.03 | 창업동아리 | 
+ Study Group | 2018.09 ~ 2018.12 | 낙산스터디그룹 | 
+ Work Scholarship | 2018.09 ~ 2018.12 | 근로장학생 | 
+ Student President | 2018.12 ~ 2019.12 | 컴퓨터공학과 학생회장 | 
+ Mentoring | 2019.03 ~ 2019.06 | 1:1 Mentor | 
+ Tutoring | 2019.03 ~ 2019.06 | JAVA Tutor | 
+ Research Activities | 2019.06 ~ 2019.12 | AI LAB | Hansung University
+ Award | 2019.09 | 공학경진대회 은상 | Hansung University
+ Award | 2020.06 | 캡스톤디자인 최우수상 | Hansung University
+ Research Activities | 2020.03 ~ 2020.10 | Data engineering LAB | Hansung University
+ Award | 2020.09 | 공학경진대회 은상 | Hansung University
  Award | 2020.12 | 공개SW 개발자대회 은상 | 과학기술정보통신부
- Study Algorithm | 2020.01 ~ ing | s | [My git](https://github.com/JaeMinYooon/algorithm)
+ Study Algorithm | 2020.01 ~ ing | Study myself | [URL](https://github.com/JaeMinYooon/algorithm)
 
 -----
 
