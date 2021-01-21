@@ -36,11 +36,12 @@ Type | Date | Contents | Organization
  Tutoring | 2019.03 ~ 2019.06 | JAVA Tutor | 
  Research Activities | 2019.06 ~ 2019.12 | AI LAB | Hansung University
  Award | 2019.09 | 공학경진대회 은상 | Hansung University
- Award | 2020.06 | 캡스톤디자인 최우수상 | Hansung University
+ Study Algorithm | 2020.01 ~ ing | Study myself | [URL](https://github.com/JaeMinYooon/algorithm)
  Research Activities | 2020.03 ~ 2020.10 | Data engineering LAB | Hansung University
+ Award | 2020.06 | 캡스톤디자인 최우수상 | Hansung University
  Award | 2020.09 | 공학경진대회 은상 | Hansung University
  Award | 2020.12 | 공개SW 개발자대회 은상 | 과학기술정보통신부
- Study Algorithm | 2020.01 ~ ing | Study myself | [URL](https://github.com/JaeMinYooon/algorithm)
+ 
 
 -----
 
