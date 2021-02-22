@@ -40,6 +40,7 @@
 | **Award** | 2020.06 | 캡스톤디자인 최우수상 | Hansung University |
 | **Award** | 2020.09 | 공학경진대회 은상 | Hansung University |
 | **Award** | 2020.12 | 공개SW 개발자대회 은상 | 과학기술정보통신부 |
+| **Make my blog** | 2021.01 | 블로그 만들기 | [URL](https://jaeminyooon.github.io) |
 
 
 </div>
